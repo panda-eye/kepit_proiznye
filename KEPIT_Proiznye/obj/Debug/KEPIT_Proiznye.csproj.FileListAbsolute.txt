@@ -1,0 +1,72 @@
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.exe.config
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.exe
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.pdb
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.g.cs
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye_MarkupCompile.cache
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye_MarkupCompile.lref
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.baml
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.g.resources
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Form1.resources
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Properties.Resources.resources
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csproj.GenerateResource.Cache
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.exe
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.pdb
+c:\users\dev\documents\visual studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.exe.manifest
+C:\Users\dev\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.application
+C:\Users\dev\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.exe.manifest
+C:\Users\dev\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.application
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\KEPIT_Proiznye.pdb
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.g.cs
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye_MarkupCompile.cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye_MarkupCompile.lref
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.baml
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.g.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Groups.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Sum.resources
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.exe
+C:\Users\Администратор\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.pdb
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.exe.config
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.exe.manifest
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.application
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.exe
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.pdb
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.g.cs
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні_Content.g.cs
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні_MarkupCompile.cache
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні_MarkupCompile.lref
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.baml
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.g.resources
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Form1.resources
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Groups.resources
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Properties.Resources.resources
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Sum.resources
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csproj.GenerateResource.Cache
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.TrustInfo.xml
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.exe.manifest
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.application
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.exe
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.pdb
+C:\Users\lilMini Phoenix\Documents\Visual Studio 2015\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csprojResolveAssemblyReference.cache
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csprojResolveAssemblyReference.cache
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.g.cs
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні_Content.g.cs
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні_MarkupCompile.cache
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні_MarkupCompile.lref
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.exe
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.pdb
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.exe.config
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.exe
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\bin\Debug\Проїзні.pdb
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Table.baml
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\Проїзні.g.resources
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Form1.resources
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Groups.resources
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Properties.Resources.resources
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.Sum.resources
+C:\Users\Динозавр Антон\Documents\Visual Studio 2017\Projects\KEPIT_Proiznye\KEPIT_Proiznye\obj\Debug\KEPIT_Proiznye.csproj.GenerateResource.Cache
